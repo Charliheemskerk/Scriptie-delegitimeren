@@ -23,22 +23,30 @@ Conceptueel model
 ## Operationalisatie van delegitimeren
 
 1.	Ad hominem aanvallen / Aanvallen op karakter (Van Dalen, 2019)
+
 a.	Aanvallen op iemands karakter, intenties of achtergrond in plaats van inhoudelijke kritiek. 
+
 b.	Het betwisten van ethische standaarden
+
 c.	Demonisering: De tegenpartij of persoon als gevaarlijk of kwaadaardig afschilderen.
+
 2.	Het betwisten van de claim dat instituties in het publieke belang werken (Van Dalen, 2019) 
+
 a.	Claimen dat instituties partijdig zijn
+
 b.	Legitimiteit in twijfel trekken
+
 3.	Het discrediteren van informatie (Esau et al., 2024)
+
 a.	Twijfel zaaien over feiten, deskundigen en autoriteit.
 b.	Rapporteren zonder onderbouwing.
 c.	Gebruik van complottheorieën
-4.	Verstoren van communicatie (Esau et al., 2024)
+5.	Verstoren van communicatie (Esau et al., 2024)
 a.	Sprekers lopen weg uit het debat of weigeren verder te praten.
 b.	Een gesprek wordt abrupt afgekapt, bijvoorbeeld door een spreker niet te laten uitpraten.
 c.	Bedreiging: Het dreigen met actie (juridisch, fysiek, politiek) tegen een persoon of groep.
-5.	Het wissen van complexiteit (Esau et al., 2024)
+6.	Het wissen van complexiteit (Esau et al., 2024)
 a.	Het vereenvoudigen van kwesties tot zwart-witdenken, waardoor nuances en middenposities verdwijnen.
 b.	Door complexe maatschappelijke problemen te reduceren tot simplistische problemen, kunnen burgers onrealistische verwachtingen ontwikkelen.
-6.	Het gebruik van emoties (Esau et al., 2024)
+7.	Het gebruik van emoties (Esau et al., 2024)
 a.	Het gebruik van extreme metaforen, scheldwoorden of moraliserende termen om een instelling in diskrediet te brengen.
