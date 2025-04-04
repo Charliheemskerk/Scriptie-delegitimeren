@@ -5,15 +5,15 @@ Ondanks de conceptualisering van destructieve polarisatie die Esau et al., (2024
 ## Hypohesen en conceptueel model
 Allereerst wordt verwacht dat gezien de toenemende polarisatie in de samenleving (Somer & McCoy., 2018), destructieve polarisatie ook in grotere mate voorkomt. Aansluitend is de volgende hypothese geformuleerd. 
 
-H1: Delegitimerende kritiek zal vaker in plenaire debatten in 2024 voorkomen dan in 2018.
+**H1: Delegitimerende kritiek zal vaker in plenaire debatten in 2024 voorkomen dan in 2018.**
 
 Populisme kenmerkt zich door het scheppen van een ‘wij vs. Zij’ narratief, waarbij democratische instituties en de media vaak worden afgeschilderd als onderdeel van de corrupte elite (Mudde, 2016; Norris, 2017). Dit wantrouwen richt zich vaak op de traditionele politieke instellingen, dit leidt tot de volgende hypothese.
 
-H2: Populistische politici zullen vaker delegitimerende kritiek uiten dan andere politici.
+**H2: Populistische politici zullen vaker delegitimerende kritiek uiten dan andere politici.**
 
 Politici richten zich in hun delegitimerende kritiek vaak specifiek op de media, omdat deze een centrale rol spelen in het vormen van de publieke opinie (Egelhofer, 2021). Uit het onderzoek van van Dalen (2019) blijkt dat politieke buitenstaanders verschillende strategieën hanteren om media te delegitimeren. Dit leidt tot de volgende hypothese.
 
-H3: Politici zullen delegitimerende kritiek vaker richten op de media dan op andere democratische instituties.
+**H3: Politici zullen delegitimerende kritiek vaker richten op de media dan op andere democratische instituties.**
 
 De hypothesen samen vormen het conceptueel model van dit onderzoek (zie Figuur 1)
 Figuur 1
