@@ -21,6 +21,7 @@ Conceptueel model
  ![image](https://github.com/user-attachments/assets/c640db9d-79d9-470b-879b-fd2c8c61338c)
 
 ## Operationalisatie van delegitimeren
+Om de hoofdvraag te beantwoorden, is het van belang te delegitimeren te operationaliseren. Zoals eerder benoemd, wordt delegitimeren gedefinieerd als een proces waarbij de rechtmatigheid of het gezag van een instelling ter discussie wordt gesteld of ondermijnd (Bexell et al., 2022). Dit onderzoek richt zich specifiek op delegitimerende uitingen over politieke instituties en de media, waarbij onderscheid wordt gemaakt tussen verschillende democratische instituties: het parlement, de regering, de rechterlijke macht, het ambtelijk apparaat en de media. Aan de hand van de artikelen van Van Dalen (2019) en Esau et al. (2024) zijn zes symptomen van delegitimeren gedefinieerd: 
 
 1.	Ad hominem aanvallen / Aanvallen op karakter (Van Dalen, 2019)
 
