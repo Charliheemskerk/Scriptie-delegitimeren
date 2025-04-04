@@ -7,7 +7,7 @@ Allereerst wordt verwacht dat gezien de toenemende polarisatie in de samenleving
 
 **H1: Delegitimerende kritiek zal vaker in plenaire debatten in 2024 voorkomen dan in 2018.**
 
-Populisme kenmerkt zich door het scheppen van een ‘wij vs. Zij’ narratief, waarbij democratische instituties en de media vaak worden afgeschilderd als onderdeel van de corrupte elite (Mudde, 2016; Norris, 2017). Dit wantrouwen richt zich vaak op de traditionele politieke instellingen, dit leidt tot de volgende hypothese.
+Populisme kenmerkt zich door het scheppen van een ‘wij vs. zij’ narratief, waarbij democratische instituties en de media vaak worden afgeschilderd als onderdeel van de corrupte elite (Mudde, 2016; Norris, 2017). Dit wantrouwen richt zich vaak op de traditionele politieke instellingen, dit leidt tot de volgende hypothese.
 
 **H2: Populistische politici zullen vaker delegitimerende kritiek uiten dan andere politici.**
 
