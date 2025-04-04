@@ -24,11 +24,11 @@ Conceptueel model
 
 1.	Ad hominem aanvallen / Aanvallen op karakter (Van Dalen, 2019)
 
-a.	Aanvallen op iemands karakter, intenties of achtergrond in plaats van inhoudelijke kritiek. 
+  a.	Aanvallen op iemands karakter, intenties of achtergrond in plaats van inhoudelijke kritiek. 
 
-b.	Het betwisten van ethische standaarden
+  b.	Het betwisten van ethische standaarden
 
-c.	Demonisering: De tegenpartij of persoon als gevaarlijk of kwaadaardig afschilderen.
+  c.	Demonisering: De tegenpartij of persoon als gevaarlijk of kwaadaardig afschilderen.
 
 2.	Het betwisten van de claim dat instituties in het publieke belang werken (Van Dalen, 2019) 
 
