@@ -63,10 +63,17 @@ b.	Door complexe maatschappelijke problemen te reduceren tot simplistische probl
 
 a.	Het gebruik van extreme metaforen, scheldwoorden of moraliserende termen om een instelling in diskrediet te brengen.
 
-#Doelgroepen:
+### Doelgroepen:
+
                   - Parlement: Het parlement als instituut
+                  
                   - Politici: Individuele politici of politieke partijen
+                  
                   - Rechtspraak: Rechters of het rechtssysteem
+                  
                   - Media: Journalisten of mediaorganisaties
+                  
                   - Ambtenaren: Het ambtelijk apparaat
+                  
                   - Minderheden: Minderheidsgroepen in de samenleving 
+                  
