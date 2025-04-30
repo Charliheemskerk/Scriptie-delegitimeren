@@ -19,7 +19,7 @@ Politici richten zich in hun delegitimerende kritiek vaak specifiek op de media,
 **H3: Politici zullen delegitimerende kritiek vaker richten op de media dan op andere democratische instituties.**
 
 ## Operationalisatie van delegitimeren
-Om de hoofdvraag te beantwoorden, is het van belang te delegitimeren te operationaliseren. Z Delegitimerende kritiek wordt gedefinieerd als: een proces waarbij de rechtmatigheid of het gezag van een instelling ter discussie wordt gesteld of ondermijnd. De uitspraak kan worden gedefinieerd als delegitimerende kritiek als het tot een of meerdere van de vijf symptomen behoord: 
+Om de hoofdvraag te beantwoorden, is het van belang te delegitimeren te operationaliseren. Delegitimerende kritiek wordt gedefinieerd als: een proces waarbij de rechtmatigheid of het gezag van een instelling ter discussie wordt gesteld of ondermijnd. De uitspraak kan worden gedefinieerd als delegitimerende kritiek als het tot een of meerdere van de vijf symptomen behoord: 
 
 1.	Aanvallen op karakter (Van Dalen, 2021)
 
