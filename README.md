@@ -86,7 +86,9 @@ o	Bedreiging: Het dreigen met actie (juridisch, fysiek, politiek) tegen een pers
 o	"Ik weiger nog langer naar deze onzin te luisteren!" [Spreker loopt weg].
 
 o	"Voorzitter, ik ga hier niet op in, dit is geen serieuze discussie."
+
 5.	Het wissen van complexiteit (Esau et al., 2024)
+
 -	Definities:
   
 o	Het vereenvoudigen van kwesties tot zwart-witdenken, waardoor nuances en middenposities verdwijnen.
