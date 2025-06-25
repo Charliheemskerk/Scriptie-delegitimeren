@@ -1,4 +1,5 @@
-# Scriptie Delegitimeren door politici
+# Destructieve polarisatie en delegitimeren van democratische instituties en de media door politici
+Het automatisch classificeren van delegitimerende kritiek met behulp van GPT
 ## Introductie
 De beperkte kennis over het gebruik van delegitimerende kritiek in politieke communicatie en het gebrek aan methoden om deze kritiek op grote schaal te analyseren, vormen een belangrijk gat in onderzoek. Vanwege de enorme schaal van politieke communicatie is handmatige classificatie onpraktisch en kostbaar. Daarnaast is delegitimeren een complex en contextafhankelijk concept, waardoor het lastig is om het concept meetbaar te maken voor automatische herkenning. Voor zover bekend, zijn er nog geen studies uitgevoerd die onderzoeken in hoeverre automatische tekstanalyse, door middel van het gebruik van een Large Language Model (LLM), kan worden ingezet om delegitimerende kritiek te classificeren. 
 Dit onderzoek zal hier een bijdrage leveren aan de hand van de onderzoeksvraag: _In hoeverre uiten politici delegitimerende kritiek op democratische instituties en de media tijdens plenaire debatten van de Tweede Kamer?_
