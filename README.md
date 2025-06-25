@@ -23,3 +23,13 @@ Het derde verwachte effect betreft het mogelijke verschil tussen typen politici,
 Politici richten zich in het uiten van delegitimerende kritiek vaak specifiek op de media, omdat deze een centrale rol spelen in het vormen van de publieke opinie (Egelhofer et al., 2021). Uit het onderzoek van van Dalen (2021) blijkt dat politici verschillende strategieën hanteren om media te delegitimeren. Dit leidt tot de laatste hypothese.
 
 **H4: Politici zullen delegitimerende kritiek vaker richten op de media dan op andere democratische instituties.**
+
+## Uitkomsten
+Hypothese 1 wordt genuanceerd ondersteund, de toename is aanwezig, maar het significante effect van tijd verdwijnt wanneer er wordt gecontroleerd voor populisme.
+
+Hypothese 2 wordt geaccepteerd.
+
+Hypothese 3 kan op basis van deze resultaten worden geaccepteerd. 
+
+Hypothese 4 wordt verworpen.
+
